@@ -37,5 +37,4 @@ public class BaseActivity extends AppCompatActivity {
             ((TextView)actionBar.getCustomView().findViewById(R.id.tv_title)).setText(getTitle());
         }
     }
-
 }
